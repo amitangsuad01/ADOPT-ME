@@ -1,3 +1,3 @@
 # ADOPT-ME
 
-A pet shop using REACT. (FrontEnd MAsters)
+A pet website using REACT. (FrontEnd MAsters)
